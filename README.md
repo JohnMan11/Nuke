@@ -14,6 +14,7 @@ Clicking on the Name column in the NodeRow will center zoom the node in the DAG.
 Clicking on the Disable column in the NodeRow will disable the node in the script.
 Clicking on the Disable column in the ClassRow will disable all nodes of that class.
 
+
 SequenceCompare:
 
 This tool was created to test sequences to see if they were redeliveries from the client.
