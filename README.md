@@ -18,7 +18,5 @@ Clicking on the Disable column in the ClassRow will disable all nodes of that cl
 SequenceCompare:
 
 This tool was created to test sequences to see if they were redeliveries from the client.
-
 It checks frame by frame until it finds a frame with a difference.
-
 I'll probably embed this into a group or gizmo.
